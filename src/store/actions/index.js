@@ -1,0 +1,1 @@
+export {changeName} from './names'
